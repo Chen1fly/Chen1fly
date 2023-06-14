@@ -1,3 +1,3 @@
 - 👋 Hi, I’m 逸飞
-- 👀 I’m currently learning C++&Java
+- 👀 I’m currently learning Deep-learning
 - Email: chenyi.jug@gmail.com;
