@@ -1,3 +1,3 @@
-- 👋 Hi, I’m 逸飞
+- 👋 Hi, I’m Yifei Chen
 - 👀 I’m currently learning Deep-learning
 - Email: chenyi.jug@gmail.com;
