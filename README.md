@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Yifei Chen
-- 👀 I’m currently learning Deep-learning
-- Email: chenyi.jug@gmail.com;
+- 👋 Hi, I’m Yifei Chen.
+- 👀 I’m a PhD student in Computer Science at ISU.
